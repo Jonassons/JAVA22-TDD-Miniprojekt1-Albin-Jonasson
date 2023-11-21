@@ -1,6 +1,6 @@
 # JAVA22-TDD-Miniprojekt1-Albin-Jonasson
 MP1 Triangle
-Uppgiften innebar att skapa en Triangle-klass för att identifiera och klassificera trianglar baserat på tre sidors längder. Lösningen implementerar olika triangulära klassificeringar som ekvilaterala, isosceles och skalena trianglar.
+
 
 Viktiga Tester:
 
